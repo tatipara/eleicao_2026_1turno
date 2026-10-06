@@ -1,4 +1,5 @@
-# Votos para Presidente — Eleições 2026 (1º Turno) por Município e Zona Eleitoral
+# Votos para Presidente
+# Eleições 2026 (1º Turno) por Município e Zona Eleitoral
 # eleicao_2026_1turno
 Dados do TSE do 1º turno da eleição de 2026
 
@@ -29,5 +30,5 @@ Script em Python, desenvolvido para o Google Colab, que coleta os dados oficiais
 3. Ajuste os parâmetros no início do script conforme necessário (`ELEICAO` para trocar de turno, `UFS` para filtrar estados, `THREADS` para controlar a velocidade de requisições)
 4. Os arquivos de saída ficam disponíveis na pasta `/content/tse2026/`
 
-## Autor
-[Tatiana Pará] | [IFPA/UEPA/MENINASDAGEO/OSGeoBrasil]
+## Autoria
+Tatiana Pará | IFPA/UEPA/MENINASDAGEO/OSGeoBrasil
